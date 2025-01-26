@@ -1,6 +1,6 @@
 ### Hi there 👋, my github username is matks
 
-#### I am a web developer and a [@PrestaShop](https://github.com/PrestaShop/) core maintainer
+#### I am a web developer, an engineering manager and a [@PrestaShop](https://github.com/PrestaShop/) core maintainer
 
 I love OSS, [Symfony](https://github.com/symfony/) and  playing with CI.
 
